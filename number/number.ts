@@ -1,3 +1,4 @@
+// number 对象
 console.log("TypeScript Number 属性: ");
 console.log("最大值为: " + Number.MAX_VALUE);
 console.log("最小值为: " + Number.MIN_VALUE);
